@@ -1,4 +1,4 @@
 env.py
-__pychace__/
 node_modules/
 venv/
+__pycache__/
